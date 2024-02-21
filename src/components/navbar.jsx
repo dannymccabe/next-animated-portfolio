@@ -82,7 +82,7 @@ const Navbar = () => {
           href="/"
           className="text-sm bg-black rounded-md p-1 flex items-center justify-center"
         >
-          <span className="text-white font-semibold mr-1">Danny</span>
+          <span className="text-white font-semibold mr-1">KARV</span>
           <span className="w-12 h-8 text-black rounded bg-white flex items-center justify-center font-semibold">
             .dev
           </span>
